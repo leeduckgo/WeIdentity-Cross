@@ -1,0 +1,5 @@
+*.crt
+*.key
+NotoSansCJKtc-Regular.ttf
+fisco.properties
+weidentity.properties
